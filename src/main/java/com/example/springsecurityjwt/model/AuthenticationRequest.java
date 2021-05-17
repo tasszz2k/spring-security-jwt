@@ -1,4 +1,4 @@
-package com.example.springsecurityjwt.util;
+package com.example.springsecurityjwt.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
